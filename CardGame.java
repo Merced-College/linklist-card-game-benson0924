@@ -1,3 +1,10 @@
+/*
+CPSC-39
+Dec 29 2024
+Ping & Taichi
+We are not sure how to do this assignment, but we tried. >_<
+Anyway, Happy Thanksgiving!!!! _from your student \·u·*/
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
